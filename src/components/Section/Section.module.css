@@ -1,0 +1,14 @@
+.section {
+    width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}

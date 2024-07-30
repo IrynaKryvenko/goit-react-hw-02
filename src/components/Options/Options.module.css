@@ -1,0 +1,11 @@
+.button {
+    border: 4px solid rgb(238, 238, 151);
+    border-radius: 10px;
+    width: 100px;
+    background-color: #f3eff1;
+}
+.buttonList {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

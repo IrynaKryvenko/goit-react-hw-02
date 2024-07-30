@@ -1,0 +1,7 @@
+.description {
+    border: 4px solid rgb(238, 238, 151);
+    margin-bottom: 20px;
+    box-shadow: 0 0 19px -5px #552d45;
+    background-color: #f3eff1;
+    border-radius: 16%;
+}
